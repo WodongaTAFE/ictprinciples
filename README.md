@@ -2,6 +2,9 @@
 
 A tool we can use to estalish core principles for running a high-performing IT team. Use these as a menu for the team to select, debate, and rank their values.
 
+https://WodongaTAFE.github.io/ictprinciples
+
+
 ## 🏗️ Operational Philosophy
 
 1.  **Boring is Good:** We prefer proven, stable technology over the "new and shiny" unless the value proposition is overwhelming. Stability is a feature.
